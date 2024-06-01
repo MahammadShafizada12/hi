@@ -1,0 +1,28 @@
+.King{
+    height: 500px;
+    width: 400px;
+    border: 1px solid lightblue;
+    background-color: aquamarine;
+    margin-top: 100px;
+
+}
+.Bomba{
+    height: 500px;
+    width: 400px;
+    border: 1px solid lightblue;
+    background-color: aquamarine;
+    margin-top: 100px;
+
+    margin-left: 500px;
+    margin-top: -500px;
+}
+.mrbeast{
+    height: 500px;
+    width: 400px;
+    border: 1px solid lightblue;
+    background-color: aquamarine;
+    margin-top: 100px;
+
+    margin-left: 1000px;
+    margin-top: -500px;
+}

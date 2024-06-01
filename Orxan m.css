@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10&display=swap');
+
+.container {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    padding: 20px;
+    background-color: aqua;
+    gap: 10px;
+}
+
+.Productimage {
+    width: 100%;
+    background-color: white;
+    padding: 50px;
+    transition: all;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.Producttitle {
+    font-family: "Jersey 10", Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    display: flex;
+    align-items: flex-start;
+    width: 100%;
+}
+
+.productdeatil {
+    display: flex;
+    align-items: flex-start;
+    width: 100%;
+}
+
+button {
+    border: none;
+    padding: 10px 35px;
+    border-radius: 20px;
+    background-color: aqua;
+    border: 1px solid white;
+
+}
+
+button:hover {
+    transform: scale(1.3);
+    transition: 0.4s;
+    background-color: white;
+    color: aquamarine;
+
+}
+
+.Card:hover {
+    img {
+        transform: rotateZ(45deg);
+    }
+}

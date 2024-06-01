@@ -1,0 +1,38 @@
+.hi{
+    background-color: green;
+    color: white;
+    border: 200px;
+    border-radius: 90px;
+    width: 150px;
+    padding: 10px;
+    margin: 30px;
+
+}
+.viyuu{
+    background-color: black;
+    color: white;
+    border: 200px;
+    border-radius: 90px;
+    width: 150px;
+    padding: 10px;
+    margin: 30px;
+}
+.saaa{
+    background-color: pink;
+    color: black;
+    border: 200px;
+    border-radius: 90px;
+    width: 150px;
+    padding: 10px;
+    margin: 30px; 
+}
+
+.hi:hover{
+    background-color: rgba(0, 128, 0, 0.612);
+}
+.viyuu:hover{
+    background-color: pink;
+}
+.saaa:hover{
+    background-color:blue;
+}

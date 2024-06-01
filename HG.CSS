@@ -1,0 +1,44 @@
+.king{
+    color: white;}
+body{
+    background-color: darkblue;
+padding: 50px;}
+    
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center; 
+    font-size: 24px;
+}
+.S{
+    color: rgba(255, 255, 255, 0.266);}
+.right{
+    display: flex;
+    justify-content: space-around;
+    align-items: center; 
+    gap: 60px;
+}
+.Hello{
+    color: white;}
+.hi{
+    color: white;}
+.ha{
+    color: white;}
+.container{
+  
+    width: 80%;
+}
+.left1{
+    width: 30%;
+    color: white;
+    font-size: 24px;
+   
+}
+.left1 button{
+    padding: 10px;
+
+}
+.right1{
+    width: 30%;
+    background-color: white;
+}

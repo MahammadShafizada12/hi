@@ -1,0 +1,36 @@
+.Clickme{ 
+   background-color: green;
+   width: 130px; 
+   color: white;
+   border: 30px;
+   border-radius: 20px;
+   padding: 15px;
+   margin: 100px; 
+}
+.PUL{
+    background-color: darkgoldenrod;
+   width: 130px; 
+   color: black;
+   border: 30px;
+   border-radius: 20px;
+   padding: 15px;
+   margin: 100px; 
+}
+.hello{
+    background-color: black;
+    width: 130px; 
+    color:white;
+    border: 30px;
+    border-radius: 20px;
+    padding: 15px;
+    margin: 100px; 
+}
+.salam{
+    background-color: pink;
+    width: 130px; 
+    color:black;
+    border: 30px;
+    border-radius: 20px;
+    padding: 15px;
+    margin: 100px; 
+}

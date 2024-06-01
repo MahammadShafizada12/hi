@@ -1,0 +1,67 @@
+body{
+background-color: rgb(123, 195, 123);
+
+}
+.carda{
+   width: 500px;
+   height: 500px;
+   background-color: darkgreen;
+   text-align: center;
+}
+.cardBox{
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    align-items: start;
+}
+.cards{
+    width: 500px;
+    height: 500px;
+    background-color: darkgreen;
+    text-align: center;
+
+}
+.cardf{
+    width: 500px;
+    height: 500px;
+    background-color: darkgreen;
+    text-align: center;
+
+}
+.pro{
+    width: 500px;
+    height: 50px;
+    background-color: rgb(80, 178, 80);
+    text-align: center;
+    border-radius: 50px;
+}
+
+.container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.btn{
+    background-color: white;
+    border-radius: 100px;
+    padding: 10px;
+}
+.info{
+    background-color: rgb(63, 135, 63);
+    border-radius: 10px;
+    /* margin-top: 20px; */
+}
+.title{
+    text-align: center;
+}
+.cardİmg{
+   text-align: center;
+}
+
+
+img{
+    height: 300px;
+}
+

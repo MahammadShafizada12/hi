@@ -1,0 +1,80 @@
+.KİNG{
+    background-color: orange;
+    height: 50px;
+    width: 700px;
+    border: 1px solid white;
+    color: white;
+    margin: 15px;
+    text-align: center;
+   
+   
+}
+body{
+    background-color: darkorange;
+}
+
+.container{
+    display: flex;
+    
+}
+.COOL{
+    background-color: orange;
+    height: 50px;
+    width: 400px;
+    border: 1px solid white;
+    color: white;
+    margin: 15px;
+    text-align: center;
+    
+}
+.Hİ{
+    display: flex;
+}
+.GREAT{
+    background-color: orange;
+    height: 50px;
+    width: 500px;
+    border: 1px solid white;
+    color: white;
+    margin: 15px;
+    text-align: center;
+}
+.BRO{
+    display: flex;
+}
+.YES{
+    background-color: orange;
+    height: 50px;
+    width: 1400px;
+    border: 1px solid white;
+    color: white;
+    margin: 15px;
+    text-align: center; 
+}
+.STEVE{
+    display: flex;
+}
+
+.TRUE{
+    background-color: orange;
+    height: 50px;
+    width: 500px;
+    border: 1px solid white;
+    color: white;
+    margin: 15px;
+    text-align: center;
+}
+.PRO{
+    display: flex;
+}
+.GG{
+    background-color: orange;
+    height: 50px;
+    width: 700px;
+    border: 1px solid white;
+    color: white;
+    margin: 15px;
+    text-align: center;
+   
+   
+}

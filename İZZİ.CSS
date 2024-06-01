@@ -1,0 +1,67 @@
+.item{background-image: url("https://res.cloudinary.com/dtokoknba/image/upload/f_auto,q_auto,w_800,h_1600,c_fit/v1651217227/service-photos/cl2k43qkf00020mtuasfd1kus.png");
+    width: 320px;
+    height: 250px;
+    border-radius: 20px;
+    padding: 20px;
+    position: relative;
+    background-size: cover;
+    background-position: end;
+}
+.words{
+    background-color: rgba(255, 255, 255, 0.534);
+}
+.container{
+    display: flex;
+    gap: 30px;
+}
+
+.King{
+    background-image: url("https://res.cloudinary.com/dtokoknba/image/upload/f_auto,q_auto,w_800,h_1600,c_fit/v1648542867/service-photos/cl1bvuxdn00000mxcgb5u1fvg.jpg");
+    width: 320px;
+    height: 250px;
+    border-radius: 20px;
+    padding: 20px;
+    position: relative;
+    background-size: cover;
+    background-position: end;
+}
+.Ali{
+    background-image: url("https://res.cloudinary.com/dtokoknba/image/upload/f_auto,q_auto,w_800,h_1600,c_fit/v1645009326/service-photos/ckzpg2t8z00090myr26ep43uz.png");
+    width: 320px;
+    height: 250px;
+    border-radius: 20px;
+    padding: 20px;
+    position: relative;
+    background-size: cover;
+    background-position: end;   
+}
+.GG{
+    background-image: url("https://res.cloudinary.com/dtokoknba/image/upload/f_auto,q_auto,w_800,h_1600,c_fit/v1645009812/service-photos/ckzpgdah2000b0myrb5q0dziz.png");
+    width: 320px;
+    height: 250px;
+    border-radius: 20px;
+    padding: 20px;
+    position: relative;
+    background-size: cover;
+    background-position: end;    
+}
+.yy{
+    background-image: url("https://res.cloudinary.com/dtokoknba/image/upload/f_auto,q_auto,w_800,h_1600,c_fit/v1645009507/service-photos/ckzpg6pl0000a0myr0udj1ox5.png");
+    width: 320px;
+    height: 250px;
+    border-radius: 20px;
+    padding: 20px;
+    position: relative;
+    background-size: cover;
+    background-position: end;  
+}
+.Salam{
+    background-image: url("https://res.cloudinary.com/dtokoknba/image/upload/f_auto,q_auto,w_800,h_1600,c_fit/v1649839129/service-photos/cl1xbmarc000a0myu78o54c60.jpg");
+    width: 320px;
+    height: 250px;
+    border-radius: 20px;
+    padding: 20px;
+    position: relative;
+    background-size: cover;
+    background-position: end;   
+}

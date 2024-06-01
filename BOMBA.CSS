@@ -1,0 +1,53 @@
+.header{
+    background-color: rgba(13, 0, 255, 0.8);
+    color: white;
+    border-radius: 10px;
+    padding: 40px;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.main{
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    padding: 40px;
+    margin: 10px;
+    width: 75%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.King{
+    background-color: orangered;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 25%;
+    border-radius: 10px;
+    padding: 20px;
+    display: flex;
+    margin: 10px;
+    
+}
+.parent{
+    display: flex;
+    gap: 20px;
+}
+.Bomba{
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    padding: 40px;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.items{
+    background-color: rgba(41, 161, 41, 0.995);
+    border-radius: 5px;
+    height: 150px;
+    width: 1+50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.itemss{
+
+    display:flex;
+    flex-wrap: wrap;
+    gap: 40px;
+}

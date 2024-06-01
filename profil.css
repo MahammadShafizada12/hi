@@ -1,0 +1,44 @@
+.red {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 20s;
+    transition-timing-function: linear;
+}
+
+.colors:hover .red {
+    transform: rotate(3600deg);
+}
+
+.green {
+    height: 150px;
+    background-color: green;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.colors:hover .green {
+    transition-timing-function: linear;
+    transition: all 19s;
+    transform: rotate(3600deg);
+}
+.blue{
+    width: 100px;
+    height: 100px;
+    background-color:  blue;
+}
+.colors:hover .blue{
+    transition-timing-function: linear;
+    transition: all 18s;
+    transform: rotate(3600deg); 
+}
+.colors{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

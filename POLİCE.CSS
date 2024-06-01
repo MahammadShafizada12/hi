@@ -1,0 +1,66 @@
+.red {
+    width: 200px;
+    height: 200px;
+    transition: all 1s;
+    transition-timing-function: linear;
+    background-color: red;
+}
+
+.colors:hover .red {
+    transform: rotate(90deg) translate(0px, 200px);
+}
+
+.colors {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.yellow {
+    width: 200px;
+    height: 200px;
+    transition: all 1s;
+    transition-timing-function: linear;
+    background-color: yellow;
+}
+
+.colors:hover .yellow {
+    transform: rotate(-90deg) translate(0px, 200px);
+}
+
+.blue {
+    width: 200px;
+    height: 200px;
+    transition: all 1s;
+    transition-timing-function: linear;
+    position: absolute;
+    background-color: blue;
+    top: 208px;
+    right: 745px;
+}
+
+.colors:hover .blue {
+    transform: rotate(-90deg) translate(0px, -200px);
+}
+.green{
+    width: 200px;
+    height: 200px;
+    transition: all 1s;
+    transition-timing-function: linear;
+    position: absolute;
+    background-color: green;
+    top: 208px;
+    right: 545px;
+}
+.colors:hover .green{
+    transform: rotate(90deg) translate(0px, -200px);
+
+}
+.Good{
+   position: absolute;
+   font-size: 24px;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   left: 700px;
+   top: 200px;
+   z-index: -1;
+}

@@ -1,0 +1,74 @@
+.div {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    animation-name: Mahammad;
+    position: relative;
+    animation-duration: 4s;
+}
+
+@keyframes Mahammad {
+    0% {
+        background-color: orange;
+        top: 0px;
+        left: 0px;
+        width: 200px;
+        height:200px;  }
+
+    12.5% {
+        background-color: blue;
+        top: 0px;
+        left: 0px;
+        width: 800px;
+        height: 200px;
+    }
+
+    25% {
+        background-color: green;
+        top: 0px;
+        left: 600px;
+        width: 200px;
+        height: 200px;
+    }
+    37.5%{
+        background-color: pink;
+        top: 0px;
+        left: 600px;
+        height: 800px;
+        width: 200px;
+    }
+    50% {
+        background-color: forestgreen;
+        top: 600px;
+        left: 600px;
+        width: 200px;
+        height: 200px;
+    }
+    62.5%{
+        top: 600px;
+        left: 0px;
+        width: 800px;
+        height:200px ;
+    }
+
+    75% {
+        background-color: brown;
+        top: 600px;
+        left: 0px;
+        width: 200px;
+        height: 200px;
+    }
+
+    87.5%{
+        top: 0px;
+        left: 0px;
+        height: 800px;
+        width: 200px;
+    }
+
+    100% {
+        background-color: aqua;
+        top: 0px;
+        left: 0px;
+    }
+}

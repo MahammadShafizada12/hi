@@ -1,0 +1,36 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+}
+
+.leftheader, .rightheader {
+    display: flex;
+    gap: 20px;
+}
+
+
+.leftheader, .rightheader {
+    margin: 10px;
+    padding: 10px;
+}
+
+.buttons {
+    border: none;
+}
+
+
+.image img {
+    width: 100px;
+    height: 100px;
+}
+
+.searchBar input {
+    width: 200px;
+    height: 30px;
+}
+
+.King, .Pro {
+    display: flex;
+    gap: 20px;
+}

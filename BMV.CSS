@@ -1,0 +1,39 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.leftheader{
+    display: flex;
+    gap: 20px;
+    margin: -100px;
+    padding: -100px;
+}
+.rightheader{
+    display: flex;
+    gap: 20px;
+    margin:-100px;
+    padding: -100px;
+}
+
+.image{
+ 
+}
+
+.searchBar{
+   
+    
+}
+.buttons{
+    border: none;
+   
+}
+.King{
+    display: flex;
+    gap: 20px;
+    
+}
+.Pro{
+    display: flex;
+    gap: 20px;
+    
+}

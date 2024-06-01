@@ -1,0 +1,18 @@
+.Main{
+    width: 700px;
+    height: 700px;
+    background-color: aqua;
+    border: 4px blue solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.center{
+    width: 100px;
+    height: 100px;
+    background-color: rgba(255, 0, 0, 0.7);
+    border: 4px red solid;
+    text-align: center;
+    
+    
+}

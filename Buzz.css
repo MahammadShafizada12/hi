@@ -1,0 +1,97 @@
+.Mom{
+    font-size: 24px;
+    color: blue;
+}
+.dad{
+    color: black;
+    font-size: 15px;
+
+
+}
+.container{
+    display: flex;
+    gap: 20px;
+    width: 90%;
+    margin: auto;
+    height: 50px;
+    align-items: center;
+    justify-content: space-between;
+}
+.sag{
+display: flex;
+gap: 20px;
+    width: 20%;
+}
+.Part1{
+    width: 90%;
+    align-items: center;
+    display: flex;
+    margin:35px  auto;
+}
+.Hello{
+    width: 45%;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+   background: linear-gradient(45deg, blue, red);
+}
+.business{
+    font-size: 24px;
+    margin-top: 40px;
+}
+.online{
+    font-size: 50px;
+    margin-top: 30px;
+    width: 45%;
+    background: linear-gradient(blue,purple,pink);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+.Police{
+    height: 50px;
+    width: 100px;
+    border-radius: 5px;
+    background-color: blue;
+    margin-top: 20px;
+}
+.Police:hover{
+    background-color: darkblue;
+}
+.Hss{
+    height: 50px;
+    width: 100px;
+    border-radius: 5px;
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.Hss:hover{
+background-color: black;
+color: white;
+}
+.right{
+    width: 50%;
+}
+.left{
+    width: 50%;
+}
+.right img{
+    height: 500px;
+    width: 400px;
+}
+.Sir{
+    font-size: 50px;
+    text-align: center;
+}
+.Sir{
+    background: linear-gradient(blue,purple,pink);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.ugur{
+    text-align: center;
+}
+.Ha{
+    text-align: center;
+}

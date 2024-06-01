@@ -1,0 +1,75 @@
+.Ceza {
+    color: black;
+    font-size: 50px;
+}
+
+.Sagopa {
+    color: blue;
+    font-size: 50px;
+}
+
+.Joker {
+    padding: 0;
+    background-color: blue;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap:20px;
+}
+.Joker>p{
+    border-left: 1px solid white;
+    padding: 10px;
+    margin: 0;
+    text-align: center;
+    color: white;
+    font-size: 24px;
+}
+
+body {
+    padding: 30px;
+}
+.Joker>p:hover{
+    background-color: darkblue;
+}
+.Box2{
+    margin-top: 50px;
+    border: 1px solid black;
+   width: 150px;
+   height: 190px;
+}
+.Box2>p:hover{
+    background-color: gray;
+}
+.umumi{
+    display: flex;
+    justify-content:space-between;
+    gap: 160px;
+}
+.Hello{
+    width: 60%;
+    border: 1px solid black;
+    margin-top: 20px;
+}
+.Hello img{
+height: 400px;
+    width: 800px;
+}
+.Box2{
+    width: 20%;
+}
+.Hi{
+    display: flex;
+    gap: 20px;
+    background-color: gray;
+}
+.Hi>p{
+    border-left: 1px solid white;
+    padding: 10px;
+    margin: 0;
+    text-align: center;
+    color: black;
+    font-size: 24px;
+}
+.Hi>p:hover{
+    text-decoration: underline;
+}

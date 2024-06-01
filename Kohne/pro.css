@@ -1,0 +1,67 @@
+.logo{
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    position: relative;
+}
+.website{
+    width: 400px;
+    height: 100px;
+    background-color: darkgreen;
+    position: relative;
+    top: -100px;
+    left: 200px;
+}
+.menu{
+    width: 600px;
+    height: 50px;
+    position: relative;
+    background-color: yellow;
+    top: -100px;
+}
+.section{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    background-color: darkblue;
+    top: -100px;
+}
+.sectiono{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    background-color: gray;
+    top: -300px;
+    right: -200px;
+  
+}
+.sectoiii{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    background-color:palevioletred;
+    top: -500px;
+    right: -400px;
+}
+.page{
+    height: 400px;
+    width: 500px;
+    position: relative;
+    background-color: rgb(8, 255, 164);
+    top: -500px;
+}
+.hhh{
+    height: 400px;
+    width: 100px;
+    background-color: brown;
+    position: relative;
+    top: -900px;
+    left: 500px;
+}
+.aaa{
+    height: 50px;
+    width: 600px;
+    background-color: aqua;
+    position: relative;
+    top: -900px;
+}
